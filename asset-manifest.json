@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sixtle/static/css/main.437ef974.css",
+    "main.js": "/sixtle/static/js/main.c072ddbd.js",
+    "static/js/787.ffe48270.chunk.js": "/sixtle/static/js/787.ffe48270.chunk.js",
+    "static/media/sixtle-word-bank.txt": "/sixtle/static/media/sixtle-word-bank.122347b62da1a4f15a08.txt",
+    "index.html": "/sixtle/index.html",
+    "main.437ef974.css.map": "/sixtle/static/css/main.437ef974.css.map",
+    "main.c072ddbd.js.map": "/sixtle/static/js/main.c072ddbd.js.map",
+    "787.ffe48270.chunk.js.map": "/sixtle/static/js/787.ffe48270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437ef974.css",
+    "static/js/main.c072ddbd.js"
+  ]
+}
